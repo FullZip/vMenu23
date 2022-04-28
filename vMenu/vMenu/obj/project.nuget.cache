@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "991w6W2zHYXrojQbK6uWIv3AyR6senw7+wBo2SduNAvC7750OHsGBMVERipDTEOWyVGHgDHT8cqNqr4U8JlnMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dusti\\OneDrive\\Desktop\\vMenu-3.5.0\\vMenu\\vMenuClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dusti\\.nuget\\packages\\citizenfx.core.client\\1.0.5049\\citizenfx.core.client.1.0.5049.nupkg.sha512",
+    "C:\\Users\\dusti\\.nuget\\packages\\menuapi.fivem\\3.2.2\\menuapi.fivem.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
